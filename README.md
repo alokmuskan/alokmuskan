@@ -1,6 +1,10 @@
-# <p align="center">**👋 Hi, I'm Alok**</p>
-<br><div><p align="center">**🌐 Full Stack Developer | Cyber Security Enthusiast🚀🚀**</p> <p align="center">🎓 Welcome to my GitHub profile! I'm passionate about web development and building end-to-end web applications.</p></div>
-<br><br>💻 Currently learning Data Structures & Algorithms, C++ and working on improving my Web Development skills.<br><br>🚀 I enjoy building projects that combine creativity and functionality — from simple apps to full-stack systems.<br><br>🌱 Always exploring new technologies and striving to grow as a developer.<br><br>📌 Interested in Open Source, Competitive Programming, and Real-world Applications.<br>
+<div align="center">
+  <h1>👋 Hi, I'm Alok</h1>
+  <h3>🌐 Full Stack Developer | Cyber Security Enthusiast🚀🚀</h3>
+  <p>🎓 Welcome to my GitHub profile! I'm passionate about web development and building end-to-end web applications.</p>
+</div>
+
+<br><br>💻 Currently learning Data Structures & Algorithms, C++ and working on improving my Web Development skills.<br><br>🚀 I enjoy building projects that combine creativity and functionality — from simple apps to full-stack systems.<br><br>🌱 Always exploring new technologies and striving to grow as a developer.<br><br>📌 Interested in Open Source, Competitive Programming, and Real-world Applications.<br><br>
 
 ## 🌐 Connect With Me
 <div align="center">
@@ -20,6 +24,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+<br>
 
 
 # 💻 Tech Stacks:
