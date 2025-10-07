@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Alok</h1>
+  <h1>👋 Hi, I'm Alok Raj</h1>
   <h3>🌐 Full Stack Developer | Cyber Security Enthusiast🚀🚀</h3>
   <p>🎓 Welcome to my GitHub profile! I'm passionate about web development and building end-to-end web applications.</p>
 </div>
