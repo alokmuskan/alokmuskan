@@ -35,7 +35,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alokmuskan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br/>
