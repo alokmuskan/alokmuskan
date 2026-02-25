@@ -35,13 +35,20 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# GitHub Stats:
+# GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokmuskan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=alokmuskan&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokmuskan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=alokmuskan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=alokmuskan&theme=github_dark&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokmuskan&theme=github_dark&hide_border=false&layout=compact" />
+
 </div>
 
 ## 🏆 GitHub Trophies
