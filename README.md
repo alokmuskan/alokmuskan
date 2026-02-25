@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://x.com/AlokRaj996868" target="_blank">
+  <a href="https://x.com/alok_raj_06" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
   </a>
   
